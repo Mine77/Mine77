@@ -2,6 +2,10 @@
 
 I build products at the edge of AI and crypto. Sometimes they even work.
 
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/HaichaoZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haichaozhu/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:haichaozhu77@gmail.com)
+
 ---
 
 #### 🔭 What I'm Building
@@ -46,8 +50,3 @@ Developer ecosystem & tooling for Algorand L1<br/>
 </td>
 </tr>
 </table>
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haichaozhu/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:haichaozhu77@gmail.com)
