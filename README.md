@@ -13,8 +13,8 @@ I build products at the edge of AI and crypto. Sometimes they even work.
 <table>
 <tr>
 <td width="50%">
-<b><a href="https://github.com/Mine77/starry-slides">starry-slides</a></b><br/>
-Open-source Agent generated slides editor<br/>
+<b><a href="https://github.com/StarryKit">StarryKit</a></b><br/>
+AI for feaster and cheaper visual design<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/github/stars/Mine77/starry-slides?style=flat" />
 </td>
